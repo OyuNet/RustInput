@@ -1,7 +1,7 @@
-use crate::libs::int_input;
-use crate::libs::str_input;
+use crate::lib::int_input;
+use crate::lib::str_input;
 
-mod libs;
+mod lib;
 
 fn main() {
     println!("Hello, world!");
